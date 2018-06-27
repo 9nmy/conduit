@@ -1,2 +1,2 @@
-FROM gcr.io/runconduit/proxy-init:v0.4.1
+FROM gcr.io/runconduit/proxy-init:v0.4.4
 
